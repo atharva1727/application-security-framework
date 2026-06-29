@@ -206,7 +206,7 @@ Successful Registration
 
 ## 🛡 Security Workflow
 
-![Security Workflow](Images/security-workflow.png)
+![Security Workflow](https://github.com/atharva1727/application-security-framework/blob/main/Application%20security.jpg)
 
 ---
 
