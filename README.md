@@ -200,7 +200,7 @@ Successful Registration
 
 ## 📝 Secure Registration Form
 
-![Registration Form](Images/registration-form.png)
+![Registration Form](https://github.com/atharva1727/application-security-framework/blob/main/Application%20security%202.jpg)
 
 ---
 
