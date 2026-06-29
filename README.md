@@ -1,7 +1,7 @@
 # 🔐 Secure Web Authentication System
 
 <p align="center">
-<img src="Images/security-workflow.png" width="1000"/>
+<img src="https://github.com/atharva1727/application-security-framework/blob/main/Application%20security%204.png" width="1000"/>
 </p>
 
 <h1 align="center">
