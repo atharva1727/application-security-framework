@@ -194,7 +194,7 @@ Successful Registration
 
 ## 🔒 Security Dashboard
 
-![Security Dashboard](Images/security-dashboard.png)
+![Security Dashboard](https://github.com/atharva1727/application-security-framework/blob/main/Application%20security%203.jpg)
 
 ---
 
